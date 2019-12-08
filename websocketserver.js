@@ -134,7 +134,7 @@ var object=
 		this.ycenter=-17;
 		this.px=0;
 		this.py=0;
-		this.size=7;
+		this.size=100;
 		this.isdie=false;
 		this.movedir=0;
 		
